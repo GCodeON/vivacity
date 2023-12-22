@@ -23,3 +23,5 @@ try {
 } catch (error: any) {
     console.error(serverError(error));
 }
+
+export default app;
